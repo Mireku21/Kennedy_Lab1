@@ -6,6 +6,7 @@
 int main()
 {
     std::cout << "Hello from Kennedy! This is my first Git commit.";
+    std::cout << "Git makes collaboration easy! ";
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
