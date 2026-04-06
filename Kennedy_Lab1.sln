@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Kennedy_Lab1", "Kennedy_Lab1\Kennedy_Lab1.vcxproj", "{CB5CBD58-A8A9-4B96-9810-DE8A5826DC17}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CB5CBD58-A8A9-4B96-9810-DE8A5826DC17}.Debug|x64.ActiveCfg = Debug|x64
+		{CB5CBD58-A8A9-4B96-9810-DE8A5826DC17}.Debug|x64.Build.0 = Debug|x64
+		{CB5CBD58-A8A9-4B96-9810-DE8A5826DC17}.Debug|x86.ActiveCfg = Debug|Win32
+		{CB5CBD58-A8A9-4B96-9810-DE8A5826DC17}.Debug|x86.Build.0 = Debug|Win32
+		{CB5CBD58-A8A9-4B96-9810-DE8A5826DC17}.Release|x64.ActiveCfg = Release|x64
+		{CB5CBD58-A8A9-4B96-9810-DE8A5826DC17}.Release|x64.Build.0 = Release|x64
+		{CB5CBD58-A8A9-4B96-9810-DE8A5826DC17}.Release|x86.ActiveCfg = Release|Win32
+		{CB5CBD58-A8A9-4B96-9810-DE8A5826DC17}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F4101E9A-131E-4A0B-98B0-8B49D920D2EE}
+	EndGlobalSection
+EndGlobal
