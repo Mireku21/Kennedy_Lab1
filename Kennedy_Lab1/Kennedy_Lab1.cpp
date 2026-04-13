@@ -1,4 +1,4 @@
-//Reviewed and updated by Tamora Brown
+//Reviewed and updated by Tamora
 // Edited directly on GitHub
 
 #include <iostream>
