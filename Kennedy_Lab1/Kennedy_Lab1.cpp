@@ -1,3 +1,4 @@
+// Feature by Kennedy: Pass-Fail check.
 //Reviewed and updated by Tamora
 // Edited directly on GitHub
 
@@ -11,5 +12,16 @@ int main()
     cout << "Lab 1 completed on 4/8/2026!" << endl;
     cout << "Feature by Kennedy : Branching is awesome!" << endl;
     cout << "Student ID: S00465211 | Name: Kennedy" << endl;
+
+    int marks;
+    cout << "Enter marks: ";
+    cin >> marks;
+
+    if (marks >= 50)
+        cout << "Pass";
+    else
+        cout << "Fail";
+
+    return 0;
 }
 
